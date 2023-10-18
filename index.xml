@@ -6,15 +6,23 @@
     <description>Recent content on Machine Learning Engineering Made Easy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2023 22:44:24 -0700</lastBuildDate><atom:link href="https://fentresspaul61b.github.io/mle-made-easy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 23:52:51 -0700</lastBuildDate><atom:link href="https://fentresspaul61b.github.io/mle-made-easy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
+      <link>https://fentresspaul61b.github.io/mle-made-easy/docs/welcome/</link>
+      <pubDate>Tue, 17 Oct 2023 23:52:51 -0700</pubDate>
+      
+      <guid>https://fentresspaul61b.github.io/mle-made-easy/docs/welcome/</guid>
+      <description>First doc </description>
+    </item>
+    
+    <item>
+      <title>Test</title>
       <link>https://fentresspaul61b.github.io/mle-made-easy/docs/test/</link>
       <pubDate>Tue, 17 Oct 2023 22:44:24 -0700</pubDate>
       
       <guid>https://fentresspaul61b.github.io/mle-made-easy/docs/test/</guid>
-      <description>Welcome Hello and welcome to Machine Learning Made Easy!
-My name is Paul Fentress and I work as a Machine Learning Engineer and have two years of experience.</description>
+      <description>Test Hello and welcome to Machine Learning Made Easy! My name is Paul Fentress and I work as a Machine Learning Engineer and have two years of experience.</description>
     </item>
     
   </channel>
