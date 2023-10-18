@@ -5,6 +5,8 @@ draft = false
 +++
 
 # Welcome
-## Welcome 
-### Welcome
-#### Welcome
+
+Hello and welcome to Machine Learning Made Easy!
+
+My name is Paul Fentress and I work as a Machine Learning Engineer and have 
+two years of experience. 
